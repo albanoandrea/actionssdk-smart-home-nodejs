@@ -43,7 +43,8 @@
 1. GO back in the [Console actions project](https://console.actions.google.com/)
 1. Reenter the project if exited and click on `Overview`
 1. Add action to your app click ADD ACTIONS
-1. Go at the beginning of the log of the application in the console and find webhook URL (ending with /smarthome)
+1. Go at the beginning of the log of the application in the console and find webhook URL (ending with /smarthome) and insert
+1. Click DONE
 1. Under Smart home click BUILD
 1. In app information click Edit
 1. Give a name and a pronuntiation
@@ -57,3 +58,4 @@
 1. Go at the beginning of the log of the application in the console and find Client ID (smartHomeProviderGoogleClientId) and Client secret (smartHomeProvideGoogleClientSecret) to fill the form
 1. A little down there is also the Authorization URL (the one ending with /oauth)  and the Token URL (ending in /token)
 1. Don't add any scope and fill test instructions and save
+1. Click on TEST DRAFT
